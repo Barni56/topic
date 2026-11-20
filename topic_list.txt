@@ -1,0 +1,20 @@
+/tf
+   Adattípus: tf2_msgs/msg/TFMessage
+   Átlagos frissítési frekvencia: 121.096 Hz
+   
+/polynomial_trajectory
+   Adattípus: visualization_msgs/msg/MarkerArray
+   Átlagos frissítési frekvencia: 10.003 Hz
+
+/occupancy_map
+   Adattípus: nav_msgs/msg/OccupancyGrid
+   Átlagos frissítési frekvencia: 20.509 Hz
+   
+/distance
+   Adattípus: std_msgs/msg/Float32
+   Átlagos frissítési frekvencia: 62.502 Hz 
+   
+/vehicle_status
+   Adattípus: std_msgs/msg/Float32
+   Átlagos frissítési frekvencia: 20.005 Hz
+
